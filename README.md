@@ -13,6 +13,7 @@ This project aims to answer the following questions:
 4. Monthly and annual sales trends: are there any patterns?
 5. Which countries contribute the highest profits?
 
+
 📊 SQL Analysis
 SQL is used to:
 - Calculate total revenue, profit, and margin percentage per product category
@@ -21,11 +22,13 @@ SQL is used to:
 - View monthly and annual sales trends
 - Determine top states and countries based on revenue and profit
 
+
 🔧 Tools & Skills
 - SQL: SELECT, JOIN, CTE, Window Function, Aggregate, CASE, ROUND
 - Data Cleaning & Transformation
 - Data Visualization: Power BI
-- Data Storytelling & Business Insights
+- Business Insights
+
 
 Takeaways
 This project demonstrates my ability to:
